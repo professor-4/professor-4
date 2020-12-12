@@ -1,4 +1,4 @@
-### Hi Community 👋
+### Hi Community <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![Akash's github stats](https://github-readme-stats.vercel.app/api?username=professor-4)
 <!--
 **professor-4/professor-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
