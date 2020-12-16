@@ -47,7 +47,7 @@
 
 
 <h3 align="center">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/askw_akash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="askw_akash" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akash-kushwah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akash-kushwah" height="30" width="40" /></a>
 <a href="https://instagram.com/askw_akash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="askw_akash" height="30" width="40" /></a>
