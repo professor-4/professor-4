@@ -44,11 +44,11 @@ ____________________________________________
 ____________________________________________</p>
 
 <p align= "center">
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=professor-4&show_icons=true&locale=en&layout=compact" alt="professor-4" /></a>
+  <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=professor-4&show_icons=true&locale=en&layout=compact" alt="professor-4" /></a>
   
   
   <a href="https://github.com/professor-4/professor-4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=professor-4&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=professor-4&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 </p>
 
